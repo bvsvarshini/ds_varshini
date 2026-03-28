@@ -1,8 +1,3 @@
-📊 Web3 Trading Team – Data Science Assignment
-👩‍💻 Candidate
-
-Varshini
-
 🎯 Objective
 
 To analyze the relationship between trader behavior and market sentiment (Fear vs Greed) and uncover how emotional market conditions influence trading patterns.
