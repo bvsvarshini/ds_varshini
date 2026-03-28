@@ -26,7 +26,7 @@ The entire analysis was performed using **Google Colab**, a cloud-based notebook
   https://colab.research.google.com/drive/1GzZ0jS_J6jRwzxtnybqQ0RRBnqvKzPTT?usp=sharing  
 
 ---
-## 🗂️ Project Structure
+```## 🗂️ Project Structure
 
 ds_varshini/
 ├── notebook_1.ipynb # Data cleaning & EDA
@@ -35,6 +35,7 @@ ds_varshini/
 ├── outputs/ # Graphs & visualizations
 ├── ds_report.pdf # Final summarized report
 └── README.md # Documentation
+```
 
 
 ---
